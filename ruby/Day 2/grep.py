@@ -1,3 +1,8 @@
+# I was impressed by the conciseness of the grep implementation in ruby
+# and was wondering how wordy an equivalent python program would be (since
+# thats the language I use for any scripting tasks too complex for bash).
+# Turns out it's not that much more:
+
 import re
 from sys import argv
 
